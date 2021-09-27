@@ -8,8 +8,15 @@ visualize all the bus stops between MIT and Harvard one at a time.
 ```
 ## How to run 
    Clone this project
+   
 $ Git clone (https://github.com/DevinCrews/Bus-Tracker)
-   Access
+  
+  Access
+   
 $ cd Bus-tracker
+
+  Run
+  
+$ open the Bus-tracker.html file  
 
 
